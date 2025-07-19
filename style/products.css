@@ -1,0 +1,6 @@
+.side-boxlink .active{
+    color: var(--primary-400);
+}
+.active-hover:hover{
+    color: var(--primary-400);
+}
